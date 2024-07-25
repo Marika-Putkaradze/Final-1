@@ -1,0 +1,65 @@
+/* 480px-320px */
+@media (max-width: 321px) {
+
+  /* header */
+  header {
+    padding-inline: 8px;
+  }
+
+  /* index_page_section2 */
+  .index_page_section2 {
+    padding: 48px 0 48px 8px;
+  }
+
+  .index_page_section2_title {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  /* main */
+  main {
+    padding: 48px 8px;
+    row-gap: 32px;
+  }
+
+  /* -------CONTACT PAGE-------  */
+  .contact_page_section1 {
+    height: 496px;
+    padding-inline: 8px;
+  }
+
+  .form_section {
+    padding: 16px 20px;
+  }
+
+  form {
+    row-gap: 24px;
+  }
+
+  .form_section_title {
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 32px;
+    text-align: center;
+  }
+
+  .contact_form_inputs_box {
+    flex-direction: column;
+    row-gap: 24px;
+  }
+
+  .submit_button {
+    width: 100%;
+  }
+
+  /* contact_page_section2 */
+  .contact_page_section2 {
+    padding: 48px 8px;
+  }
+
+  .contact_page_section2_title {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}

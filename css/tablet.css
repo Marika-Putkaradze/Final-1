@@ -1,0 +1,84 @@
+/* 768px-481px */
+
+@media (max-width: 481px) {
+
+  /* header */
+  header {
+    padding-inline: 20px;
+  }
+
+  /* index_page_section1 */
+  .index_page_section1 {
+    height: 304px;
+  }
+
+  .index_page_section1_title {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  /* index_page_section2 */
+  .index_page_section2 {
+    padding: 64px 0 64px 20px;
+  }
+
+  .index_page_section2_title {
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 32px;
+  }
+
+  /* footer */
+  footer {
+    padding-block: 30px;
+  }
+
+  /* main */
+  main {
+    padding-block: 64px;
+    row-gap: 48px;
+  }
+
+  .pages_section button {
+    width: 40px;
+    height: 40px;
+  }
+
+  .button3 {
+    display: none;
+  }
+
+  /* -------CONTACT PAGE-------  */
+  .contact_page_section1 {
+    height: 560px;
+  }
+
+  .form_section {
+    padding: 24px 20px;
+  }
+
+  .form_section_title {
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    line-height: 39px;
+    margin-bottom: 40px;
+  }
+
+  .contact_form_inputs_box {
+    column-gap: 32px;
+  }
+
+  /* contact_page_section2 */
+  .contact_page_section2 {
+    padding-block: 64px;
+  }
+
+  .contact_page_section2_left_content {
+    column-gap: 42px;
+  }
+
+  .contact_page_section2_title {
+    font-size: 32px;
+    line-height: 40px;
+  }
+}
